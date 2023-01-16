@@ -30,7 +30,7 @@ WHEN I decide to finish building my team, THEN I exit the application, and the H
 
 USAGE
 
-Use inquirer from your command line to answer questions about your project. View walk through video here ///INSERT VIDEO HERE///
+Use inquirer from your command line to answer questions about your project. View walk through video here: https://drive.google.com/file/d/1R1ro3l-ogHnixdgRYNMuKSJYzrcmLBjF/view
 
 LICENSE
 
