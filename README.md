@@ -5,7 +5,7 @@ DESCRIPTION
 This application was built to allow users to generate a team profile based on thier input in the command line using the Inquirer module from Node.js.
 Once the user has input all the desired information, it will be displayed on a newly created html page with a style sheet. 
 This project also demonstrates the use of OOP and TDD using Jest.
-To check out the project files, visit my GitHub page: ///INSERT GITHUB REPO LINK HERE///
+To check out the project files, visit my GitHub page: https://github.com/JelyseCalkum/team-profile-generator 
  
 INSTALLATION
 
