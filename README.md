@@ -10,7 +10,7 @@ To check out the project files, visit my GitHub page: https://github.com/JelyseC
 INSTALLATION
 
 The user should clone the repository from GitHub and download Node. 
-This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
+This application also requires a file system and inquirer module. 
 
 USER STORY
 
